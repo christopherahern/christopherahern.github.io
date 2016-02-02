@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Christopher Ahern
+tagline:             'Post-doctoral researcher at the University of Pennsylvania'
+description:         ''
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+gems:               [jekyll-paginate,jekyll-feed]
+# About/contact
+author:
+  name:              Christopher Ahern
+  url:               https://twitter.com/mdo
+  email:             christopher.ahern@gmail.com
+  github:            christopherahern
+  linkedin:          christopherahern
+
+
+# Custom vars
+version:             1.0.0
