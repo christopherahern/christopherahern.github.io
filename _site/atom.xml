@@ -4,13 +4,36 @@
  <title>Christopher Ahern</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2016-02-02T14:31:55-05:00</updated>
+ <updated>2016-02-03T12:28:06-05:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Christopher Ahern</name>
    <email>christopher.ahern@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>My dissertation materials are available on github</title>
+   <link href="http://lanyon.getpoole.com/2016/02/03/Dissertation-on-Github/"/>
+   <updated>2016-02-03T00:00:00-05:00</updated>
+   <id>http://lanyon.getpoole.com/2016/02/03/Dissertation-on-Github</id>
+   <content type="html">&lt;p&gt;The contents of my dissertation, including data, code, and the latex document
+itself, are or will be made available on github. I’ve benefited immensely
+from the generosity and openness of other researchers, so I figured I’d do my
+best to repay the favor as best I could. Reorganizing and cleaning things up
+is a work in progress, but the goal is to make the analysis reproducible. Feel
+free to contact me with any questions, comments, or suggestions!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Here's a final test to see if the counter is working</title>
+   <link href="http://lanyon.getpoole.com/2016/02/02/Third/"/>
+   <updated>2016-02-02T00:00:00-05:00</updated>
+   <id>http://lanyon.getpoole.com/2016/02/02/Third</id>
+   <content type="html">&lt;p&gt;This is a test blog post&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Here's another test</title>
