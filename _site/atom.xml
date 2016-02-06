@@ -4,7 +4,7 @@
  <title>Christopher Ahern</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2016-02-03T13:06:59-05:00</updated>
+ <updated>2016-02-06T00:38:46-05:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Christopher Ahern</name>
@@ -13,43 +13,17 @@
 
  
  <entry>
-   <title>My dissertation materials are available on github</title>
+   <title>Dissertation materials available on github</title>
    <link href="http://lanyon.getpoole.com/2016/02/03/Dissertation-on-Github/"/>
    <updated>2016-02-03T00:00:00-05:00</updated>
    <id>http://lanyon.getpoole.com/2016/02/03/Dissertation-on-Github</id>
-   <content type="html">&lt;p&gt;The contents of my dissertation, including data, code, and the latex document
-itself, are or will be made available on github. I’ve benefited immensely
-from the generosity and openness of other researchers, so I figured I’d do my
-best to repay the favor as best I could. Reorganizing and cleaning things up
-is a work in progress, but the goal is to make the analysis reproducible. Feel
-free to contact me with any questions, comments, or suggestions!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Here's a final test to see if the counter is working</title>
-   <link href="http://lanyon.getpoole.com/2016/02/02/Third/"/>
-   <updated>2016-02-02T00:00:00-05:00</updated>
-   <id>http://lanyon.getpoole.com/2016/02/02/Third</id>
-   <content type="html">&lt;p&gt;This is a test blog post&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Here's another test</title>
-   <link href="http://lanyon.getpoole.com/2016/02/02/Second/"/>
-   <updated>2016-02-02T00:00:00-05:00</updated>
-   <id>http://lanyon.getpoole.com/2016/02/02/Second</id>
-   <content type="html">&lt;p&gt;This is a test blog post&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Starting out using Jekyll</title>
-   <link href="http://lanyon.getpoole.com/2016/02/01/Test/"/>
-   <updated>2016-02-01T00:00:00-05:00</updated>
-   <id>http://lanyon.getpoole.com/2016/02/01/Test</id>
-   <content type="html">&lt;p&gt;This is a test blog post&lt;/p&gt;
+   <content type="html">&lt;p&gt;The contents of my dissertation, including data, code, and the document itself,
+ are or will be made &lt;a href=&quot;https://github.com/christopherahern/dissertation&quot;&gt;available on github&lt;/a&gt;.
+The openness and generosity of other researchers made things possible, so I’d like to do my
+best to follow that example.&lt;/p&gt;
+
+&lt;p&gt;I’m currently reorganizing and cleaning things up, but feel free to contact me with any 
+questions or comments!&lt;/p&gt;
 </content>
  </entry>
  
