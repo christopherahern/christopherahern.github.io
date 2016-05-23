@@ -3,7 +3,7 @@ layout: post
 title: Check dis out
 ---
 
-Source code for a draft of a new paper with [Meredith Tamminga](www.meredithtamminga.com) and [Aaron Ecay](aaronecay.com)
+Source code for a draft of a new paper with [Meredith Tamminga](https://www.meredithtamminga.com) and [Aaron Ecay](https://aaronecay.com)
 is [available on github](https://github.com/christopherahern/GAM-DH). We use generalized additive models to simultaneously
 estimate the effect of priming and style-shifting on the use of DH-stopping variants: 
 
