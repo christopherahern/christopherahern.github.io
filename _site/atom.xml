@@ -4,13 +4,48 @@
  <title>Christopher Ahern</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2016-04-27T13:31:13-04:00</updated>
+ <updated>2016-05-23T00:38:23-04:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Christopher Ahern</name>
    <email>christopher.ahern@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Check dis out</title>
+   <link href="http://lanyon.getpoole.com/2016/05/23/Check-dis-out/"/>
+   <updated>2016-05-23T00:00:00-04:00</updated>
+   <id>http://lanyon.getpoole.com/2016/05/23/Check-dis-out</id>
+   <content type="html">&lt;p&gt;Source code for a draft of a new paper with &lt;a href=&quot;www.meredithtamminga.com&quot;&gt;Meredith Tamminga&lt;/a&gt; and &lt;a href=&quot;aaronecay.com&quot;&gt;Aaron Ecay&lt;/a&gt;
+is &lt;a href=&quot;https://github.com/christopherahern/GAM-DH&quot;&gt;available on github&lt;/a&gt;. We use generalized additive models to simultaneously
+estimate the effect of priming and style-shifting on the use of DH-stopping variants:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Check &lt;em&gt;this&lt;/em&gt; out!&lt;/li&gt;
+  &lt;li&gt;Check &lt;em&gt;dis&lt;/em&gt; out!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The basic intuition is that there are at least two potential sources of repetition when we observe multiple variants of the
+same kind. On the one hand we have priming, which is the cognitive tendency to repeat recently used variants. If you just said &lt;em&gt;this&lt;/em&gt;, 
+then you’re more likely to say &lt;em&gt;this&lt;/em&gt; again. On the other hand we have style-shifting, which is the social use of variants
+to signal information according to the context of the discussion. If the conversation is formal, you’re more likely to  use &lt;em&gt;this&lt;/em&gt; 
+if it’s informal you’re more like to use &lt;em&gt;dis&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;While we might expect priming to be fairly uniform across speakers and contexts, each of those individual contexts is unique. Still,
+we’d like to be able to simultaneously estimate how the previously used variant and the context influence the next variant.
+Generalized additive models are a great way of doing this because they allow us to model the effect of priming while also 
+modeling the effect of style shifting as a smooth function of time. Since we have
+no prior expectation about how a sociolinguistic interview might go, GAMs allow for the right kind of flexibility.&lt;/p&gt;
+
+&lt;p&gt;Here’s the abstract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Intraspeaker variation is typically characterized by repetitiveness in variant choice, but there are multiple possible sources of such repetitiveness. We distinguish two types of clustering: sequential dependence, which we associate with priming, and baseline deflection, which we associate with style-shifting. We argue that because both priming and style-shifting are likely to be at play in producing observed quantitative patterns, it is desirable to adopt quantitative models that can simultaneously estimate sequential dependence and baseline deflection as distinct sources of temporal clustering. We propose the use of Generalized Additive Models (GAMs) for this purpose. We test the use of GAMs on a case study of DH-stopping in Philadelphia English sociolinguistic interviews and find that the resulting parameter estimates are reasonable given basic expectations about how style and priming should be distributed across individuals. We advocate for the adoption of this and similar new tools to advance the integration of psycholinguistic, sociolinguistic, and corpus linguistic insights in the study of intraspeaker variation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>New paper avilable</title>
@@ -33,9 +68,20 @@ entitled &lt;em&gt;Conflict, cheap talk, and Jespersen’s cycle&lt;/em&gt;. The
    <link href="http://lanyon.getpoole.com/2016/03/28/FWAV/"/>
    <updated>2016-03-28T00:00:00-04:00</updated>
    <id>http://lanyon.getpoole.com/2016/03/28/FWAV</id>
-   <content type="html">&lt;p&gt;I’m excited to say that some work I’ve been doing with Akiva Bacovcin has been 
-accepted to &lt;a href=&quot;http://fwav3.commons.gc.cuny.edu/program/&quot;&gt;FWAV&lt;/a&gt;. We’ll be presenting
-on the second day (Thursday, May 19th). Looking forward to it!&lt;/p&gt;
+   <content type="html">&lt;p&gt;I’m excited to say Akiva Bacovcin and I will be presenting our paper
+&lt;em&gt;The logistic language learning curve?&lt;/em&gt; at &lt;a href=&quot;http://fwav3.commons.gc.cuny.edu/program/&quot;&gt;FWAV&lt;/a&gt;. 
+We’ll be presenting on the second day (Thursday, May 19th). Looking forward to it!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The logistic function, which has long served as the basic model of discrete
+language change (cf. Altmann et al. 1983; Kroch 1989), has both deep connections to
+change in biological populations as well as a practical implementation in terms of logistic
+regression. However, no particular cognitive mechanism has been proposed to underlie
+the logistic (Kroch 1989, 4). Yang’s (2002) variational learning model offers a cognitive
+basis for change insofar as its mean dynamics yield S-shaped curves. Indeed, using
+simulations, we show that given sufficiently large datasets, it is possible to gain insight
+into whether the learning or logistic model generated an empirical S-shaped curve.&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
  </entry>
  
