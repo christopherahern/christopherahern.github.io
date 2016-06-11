@@ -4,7 +4,7 @@ title: About
 ---
 
 
-I'm a data scientist at Oncora Medical where we use data and machine learning to
+I'm a data scientist at [Oncora Medical](https://oncoramedical.com/) where we use data and machine learning to
  help radiation onocologists provide the best possible care for cancer patients.
 
 I also work with [Robin Clark](http://www.ling.upenn.edu/~rclark/Site/Welcome.html)
