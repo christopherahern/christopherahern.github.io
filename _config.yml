@@ -10,7 +10,7 @@ tagline:             'Data scientist at Oncora Medical'
 description:         ''
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
-paginate:            5
+paginate:            3
 gems:               [jekyll-paginate,jekyll-feed]
 # About/contact
 author:
