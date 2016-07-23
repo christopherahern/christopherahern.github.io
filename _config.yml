@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Christopher Ahern
 tagline:             'Data scientist at Oncora Medical'
 description:         ''
-url:                 http://lanyon.getpoole.com
+url:                 http://christopherahern.github.io
 baseurl:             ''
 paginate:            3
 gems:               [jekyll-paginate,jekyll-feed]
